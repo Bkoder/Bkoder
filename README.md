@@ -1,4 +1,4 @@
-<p align="center"> Hi👋, I am Bhavya Kumar.</p>
+<h1 align="center">  Hi👋, I am Bhavya Kumar.</h1>
 
 # 💫 About Me:
 🌱 I’m currently learning Machine Learning and Data Structures<br><br>👯 I’m looking to collaborate on Machine Learning and Web Development<br><br>💬 Ask me about MERN<br><br>📫 How to reach me bhavyakumar0105@gmail.com
